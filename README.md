@@ -1,7 +1,7 @@
-#Pasta Recipe Page
+Pasta Recipe Page
 Welcome to the "Pasta Recipe Page" project! This repository contains a simple yet elegant web page showcasing a delicious pasta recipe. It's designed to demonstrate fundamental web development skills, including HTML, CSS, and basic for an user experience.
 
-#Project Overview
+Project Overview
 
 The project features:
 
